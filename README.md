@@ -66,7 +66,7 @@ deploy .WAR in tomcat
 - build the project locally with a locally installed maven client
 
 > Tested in Win11 with WSL
-
+### Command below has been tested in codespaces
 ```bash
 mvn verify
 ```
